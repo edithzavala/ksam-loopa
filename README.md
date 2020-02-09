@@ -4,7 +4,7 @@
 ### Description:
 An implementation of an adaptive feedback MAPE-K loop using the HAFLoop framework (https://github.com/edithzavala/loopa).
 
-This implementation of is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+This implementation is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Getting started:
 - Install docker (https://www.docker.com/)
